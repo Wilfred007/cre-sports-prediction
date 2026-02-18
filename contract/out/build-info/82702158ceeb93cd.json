@@ -1,0 +1,1 @@
+{"id":"82702158ceeb93cd","source_id_to_path":{"0":"lib/openzeppelin-contracts/contracts/access/Ownable.sol","1":"lib/openzeppelin-contracts/contracts/utils/Context.sol","2":"lib/openzeppelin-contracts/contracts/utils/introspection/IERC165.sol","3":"src/SportsPredictionMarket.sol","4":"src/interfaces/IReceiver.sol","5":"src/interfaces/ReceiverTemplate.sol"},"language":"Solidity"}
